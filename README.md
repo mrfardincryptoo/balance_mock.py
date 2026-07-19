@@ -1,2 +1,2 @@
-# balance_mock.py
-balance_mock.py
+# Wallet Balance Mock
+A simple utility to format and display mock token balances for Web3 dashboard testing.
